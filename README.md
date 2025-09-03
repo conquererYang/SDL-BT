@@ -19,6 +19,7 @@ Our framework leverages **Hierarchical Large Language Models (LLMs)** to facilit
 
 ### 📹 Case Study Videos
 Link: https://www.youtube.com/watch?v=OH60_Ew9avQ&list=PLIJnmuEVkn7JcBSICKHqBwTBSFjnzq4pN&pp=gAQB
+
 We have conducted extensive case studies demonstrating the anomaly handling process through practical scenarios. The following videos display various anomaly situations encountered and how the framework responds:
 - Video 1: Simulated silica gel 1 material shortage  
 - Video 2: Simulated pigment shortages continue to increase

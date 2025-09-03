@@ -1,6 +1,6 @@
 # 🤖 Multi-Robot Coordination for Effective Anomaly Handling in Self-Driving Laboratories
 ## 🚀 Project Overview
-<img width="4759" height="2882" alt="framework_high" src="https://github.com/user-attachments/assets/e173a318-d7fc-4f79-97f1-6f86fe57458a" />
+<img width="475" height="288" alt="framework_high" src="https://github.com/user-attachments/assets/e173a318-d7fc-4f79-97f1-6f86fe57458a" />
 
 In scientific laboratories, the complexity of experimental processes and high-precision equipment increase the likelihood of anomalies, which can compromise results and pose safety risks. This project addresses these challenges by implementing a **Multi-Robot Coordination Framework** specifically designed for effective anomaly handling in autonomous laboratory environments.
 

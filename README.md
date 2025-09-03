@@ -24,9 +24,9 @@ We have conducted extensive case studies demonstrating the anomaly handling proc
 - Video 3: Cleaning robot cleans water stains
 - Video 4: Simulated the test tube is missing, re-execute the action of taking the test tube
 - Video 5: The test tube of the weighing instrument is missing and then put it back in 
-- Video 6: Workbench robot0 straightens the mold on the mold plate
-- Video 7: Workbench robot0 straightens the tray mold
-- Video 8: Workbench robot0 re-rectifies the mold and puts it back on the tray
-- Video 9: Workbench robot0 is interrupted when adding pigment to the test tube. Replace the test tube with a new one and add pigment again. 
+- Video 6-1: Workbench robot0 straightens the mold on the mold plate
+- Video 6-2: Workbench robot0 straightens the tray mold
+- Video 6-3: Workbench robot0 re-rectifies the mold and puts it back on the tray
+- Video 7: Workbench robot0 is interrupted when adding pigment to the test tube. Replace the test tube with a new one and add pigment again. 
 ### 📈 Conclusion
 This research presents a novel framework for managing anomalies in multi-robot systems, paving the way for enhanced automation in scientific laboratories. Feel free to dive in, provide feedback, or contribute to enhancing anomaly handling strategies! 💡

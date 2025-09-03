@@ -1,5 +1,6 @@
 # 🤖 Multi-Robot Coordination for Effective Anomaly Handling in Self-Driving Laboratories
 ## 🚀 Project Overview
+<img width="4759" height="2882" alt="framework_high" src="https://github.com/user-attachments/assets/e173a318-d7fc-4f79-97f1-6f86fe57458a" />
 
 In scientific laboratories, the complexity of experimental processes and high-precision equipment increase the likelihood of anomalies, which can compromise results and pose safety risks. This project addresses these challenges by implementing a **Multi-Robot Coordination Framework** specifically designed for effective anomaly handling in autonomous laboratory environments.
 
@@ -14,6 +15,7 @@ Our framework is validated using our **Sdls Anomaly Detect** dataset（https://f
 
 ### 🛠️ Methodology
 Our framework leverages **Hierarchical Large Language Models (LLMs)** to facilitate intelligent task planning and actions, executing dynamic adjustments in real time. The **Cross-Behavior Tree Expansion Algorithm** effectively identifies and responds to common laboratory anomalies, thus ensuring smooth operation of multi-robot systems.
+<img width="7680" height="4320" alt="Fig Methods" src="https://github.com/user-attachments/assets/d7f725b0-e733-4319-b315-076ba08b1a73" />
 
 ### 📹 Case Study Videos
 We have conducted extensive case studies demonstrating the anomaly handling process through practical scenarios. The following videos display various anomaly situations encountered and how the framework responds:

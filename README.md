@@ -1,4 +1,3 @@
-# 🤖 Anomaly Management in Multi-Robot Coordination: Detection and Handling Framework for Self-Driving Laboratories
 # 🤖 Multi-Robot Coordination for Effective Anomaly Handling in Self-Driving Laboratories
 ## 🚀 Project Overview
 

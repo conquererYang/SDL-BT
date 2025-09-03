@@ -1,5 +1,5 @@
+# 🤖 Anomaly Management in Multi-Robot Coordination: Detection and Handling Framework for Self-Driving Laboratories
 # 🤖 Multi-Robot Coordination for Effective Anomaly Handling in Self-Driving Laboratories
-
 ## 🚀 Project Overview
 
 In scientific laboratories, the complexity of experimental processes and high-precision equipment increase the likelihood of anomalies, which can compromise results and pose safety risks. This project addresses these challenges by implementing a **Multi-Robot Coordination Framework** specifically designed for effective anomaly handling in autonomous laboratory environments.
@@ -25,11 +25,5 @@ We have conducted extensive case studies demonstrating the anomaly handling proc
 - [Video 8: Scenario Description](#)  
 - [Video 9: Scenario Description](#)  
 
-(Please replace “Scenario Description” with actual descriptions of each video.)
-
 ### 📈 Conclusion
-This research presents a novel framework for managing anomalies in multi-robot systems, paving the way for enhanced automation in scientific laboratories. We invite contributors and enthusiasts to explore this project, share insights, and join in making laboratories safer and more efficient through advanced robotic coordination.
-
----
-
-Feel free to dive in, provide feedback, or contribute to enhancing anomaly handling strategies! 💡
+This research presents a novel framework for managing anomalies in multi-robot systems, paving the way for enhanced automation in scientific laboratories. Feel free to dive in, provide feedback, or contribute to enhancing anomaly handling strategies! 💡

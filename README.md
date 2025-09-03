@@ -17,18 +17,16 @@ Our framework is validated using our **Sdls Anomaly Detect** dataset（https://f
 Our framework leverages **Hierarchical Large Language Models (LLMs)** to facilitate intelligent task planning and actions, executing dynamic adjustments in real time. The **Cross-Behavior Tree Expansion Algorithm** effectively identifies and responds to common laboratory anomalies, thus ensuring smooth operation of multi-robot systems.
 <img width="7680" height="4320" alt="Fig Methods" src="https://github.com/user-attachments/assets/d7f725b0-e733-4319-b315-076ba08b1a73" />
 
-### 📹 Case Study Videos
+### 📹 Case Study Videos (https://www.youtube.com/watch?v=OH60_Ew9avQ&list=PLIJnmuEVkn7JcBSICKHqBwTBSFjnzq4pN&pp=gAQB)
 We have conducted extensive case studies demonstrating the anomaly handling process through practical scenarios. The following videos display various anomaly situations encountered and how the framework responds:
-
-- [Video 1: Scenario Description](#)  
-- [Video 2: Scenario Description](#)  
-- [Video 3: Scenario Description](#)  
-- [Video 4: Scenario Description](#)  
-- [Video 5: Scenario Description](#)  
-- [Video 6: Scenario Description](#)  
-- [Video 7: Scenario Description](#)  
-- [Video 8: Scenario Description](#)  
-- [Video 9: Scenario Description](#)  
-
+- Video 1: Simulated silica gel 1 material shortage  
+- Video 2: Simulated pigment shortages continue to increase
+- Video 3: Cleaning robot cleans water stains
+- Video 4: Simulated the test tube is missing, re-execute the action of taking the test tube
+- Video 5: The test tube of the weighing instrument is missing and then put it back in 
+- Video 6: Workbench robot0 straightens the mold on the mold plate
+- Video 7: Workbench robot0 straightens the tray mold
+- Video 8: Workbench robot0 re-rectifies the mold and puts it back on the tray
+- Video 9: Workbench robot0 is interrupted when adding pigment to the test tube. Replace the test tube with a new one and add pigment again. 
 ### 📈 Conclusion
 This research presents a novel framework for managing anomalies in multi-robot systems, paving the way for enhanced automation in scientific laboratories. Feel free to dive in, provide feedback, or contribute to enhancing anomaly handling strategies! 💡

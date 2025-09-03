@@ -9,6 +9,10 @@ In scientific laboratories, the complexity of experimental processes and high-pr
 - **Anomaly-Triggered Cross-Behavior Tree Extension Algorithm**: An innovative algorithm that activates upon detecting anomalies, which efficiently manages and localizes issues without extensive re-planning.
 - **Comprehensive Experimentation and Validation**: Rigorous testing in both simulated and real environments demonstrates the framework's effectiveness in enhancing fault tolerance and flexibility during anomaly management.
 
+### 📊 Anomaly Detection Data Set
+Our framework is validated using our **Sdls Anomaly Detect** dataset（https://figshare.com/articles/dataset/sdls_anomaly_detect/29234663/1）, which includes a variety of scenarios and labeled anomalies commonly encountered in laboratory settings. For detailed methodologies and further reading, refer to the following foundational paper: 
+- **Anomaly Detection in Robotics**: S. Lin, C. Wang, X. Ding, Y. Wang, B. Du, L. Song, C. Wang, and H. Liu, "A VLM-based Method for Visual Anomaly Detection in Robotic Scientific Laboratories," arXiv preprint arXiv:2506.05405, 2025.
+
 ### 🛠️ Methodology
 Our framework leverages **Hierarchical Large Language Models (LLMs)** to facilitate intelligent task planning and actions, executing dynamic adjustments in real time. The **Cross-Behavior Tree Expansion Algorithm** effectively identifies and responds to common laboratory anomalies, thus ensuring smooth operation of multi-robot systems.
 

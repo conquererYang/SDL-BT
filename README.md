@@ -17,7 +17,8 @@ Our framework is validated using our **Sdls Anomaly Detect** dataset（https://f
 Our framework leverages **Hierarchical Large Language Models (LLMs)** to facilitate intelligent task planning and actions, executing dynamic adjustments in real time. The **Cross-Behavior Tree Expansion Algorithm** effectively identifies and responds to common laboratory anomalies, thus ensuring smooth operation of multi-robot systems.
 <img width="7680" height="4320" alt="Fig Methods" src="https://github.com/user-attachments/assets/d7f725b0-e733-4319-b315-076ba08b1a73" />
 
-### 📹 Case Study Videos (https://www.youtube.com/watch?v=OH60_Ew9avQ&list=PLIJnmuEVkn7JcBSICKHqBwTBSFjnzq4pN&pp=gAQB)
+### 📹 Case Study Videos
+Link: https://www.youtube.com/watch?v=OH60_Ew9avQ&list=PLIJnmuEVkn7JcBSICKHqBwTBSFjnzq4pN&pp=gAQB
 We have conducted extensive case studies demonstrating the anomaly handling process through practical scenarios. The following videos display various anomaly situations encountered and how the framework responds:
 - Video 1: Simulated silica gel 1 material shortage  
 - Video 2: Simulated pigment shortages continue to increase

@@ -32,3 +32,5 @@ We have conducted extensive case studies demonstrating the anomaly handling proc
 - Video 7: Workbench robot0 is interrupted when adding pigment to the test tube. Replace the test tube with a new one and add pigment again. 
 ### 📈 Conclusion
 This research presents a novel framework for managing anomalies in multi-robot systems, paving the way for enhanced automation in scientific laboratories. Feel free to dive in, provide feedback, or contribute to enhancing anomaly handling strategies! 💡
+### Authors
+Yang Yang, Jiankun Yang, Haibo Lu, Ge Li, Huaping Liu, and Wen Gao, Fellow, IEEE
